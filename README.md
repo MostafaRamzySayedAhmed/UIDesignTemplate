@@ -12,4 +12,3 @@
 * Java Script
 * Nice Scroll JS Plugin
 * jQuery
-.
