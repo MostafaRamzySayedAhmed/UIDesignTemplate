@@ -1,5 +1,5 @@
 # UI Design Template
-It’s a Non-Responsive Template.
+It’s a Non-Responsive Template
 
 # The Features
 * The Simple & Classic Design.
