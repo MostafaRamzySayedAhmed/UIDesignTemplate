@@ -10,6 +10,6 @@ It’s a Non-Responsive Template.
 * CSS
 * Font Awesome CSS Library
 * Normalize CSS Library
-* Java Script
+* JavaScript
 * Nice Scroll JS Plugin
 * jQuery
